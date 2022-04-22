@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicktotheBell
-- 👀 I’m interested in Linux, learning Python
+- 👀 I’m interested in cool stuff
 - 🌱 I’m currently learning everything I can
 - 💞️ I’m looking to collaborate on whatever I can be of help with
 - 📫 How to reach me @NicktotheBell on twitter
